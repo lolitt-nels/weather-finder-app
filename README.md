@@ -1,0 +1,1 @@
+web app to find the coordinates and Weather in a chosen city , using html css and vanilla Js for front-end , and Django framework for the Back-end , therefore using python , and eith the use of an API to get the informations
